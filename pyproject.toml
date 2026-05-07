@@ -1,7 +1,7 @@
 [project]
 name = "circular-humanity-const"
 version = "1.0.0"
-description = "地球循環と人間の情熱を守るAI憲法ライブラリ"
+description = "AI constitution toolkit for Earth-system circularity and human passion"
 license = {text = "CC BY-SA 4.0"}
 readme = "README.md"
 requires-python = ">=3.10"
