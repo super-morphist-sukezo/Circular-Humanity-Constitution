@@ -42,6 +42,8 @@ print(self_critique_prompt[:200])
 - `prompts/human_dialogue_triggers_ja.md`: 日本語の人間対話モードトリガー集
 - `examples/physical_simulation_langchain.py`: LangChain 連携サンプル
 - `examples/physical_simulation_llamaindex.py`: LlamaIndex 連携サンプル
+- `docs/scenarios.md`: 英語 canonical の活用シナリオ
+- `docs/scenarios_ja.md`: 公式日本語版の活用シナリオ
 - `compliance_checker.py`: 簡易遵守度診断ツール
 - `circular_humanity_const/`: ローダー用の最小 Python パッケージ
 - `docs/translation_policy.md`: 翻訳・同期ポリシー

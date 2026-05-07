@@ -9,6 +9,7 @@ The Circular Humanity Constitution uses English as the canonical implementation 
 - `constitution.json`
 - `prompts/self_critique_prompt.md`
 - `prompts/human_dialogue_triggers.md`
+- `docs/scenarios.md`
 
 These files are the primary reference for implementation, interoperability, and integrations with other AI systems.
 
@@ -19,6 +20,7 @@ These files are the primary reference for implementation, interoperability, and 
 - `constitution_ja.json`
 - `prompts/self_critique_prompt_ja.md`
 - `prompts/human_dialogue_triggers_ja.md`
+- `docs/scenarios_ja.md`
 
 The Japanese files are official translations, not informal notes. They preserve the original conceptual nuance of the project and should remain aligned with the canonical English files.
 

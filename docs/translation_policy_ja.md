@@ -9,6 +9,7 @@
 - `constitution.json`
 - `prompts/self_critique_prompt.md`
 - `prompts/human_dialogue_triggers.md`
+- `docs/scenarios.md`
 
 これらは、実装、相互運用、他AIシステムとの連携における主参照です。
 
@@ -19,6 +20,7 @@
 - `constitution_ja.json`
 - `prompts/self_critique_prompt_ja.md`
 - `prompts/human_dialogue_triggers_ja.md`
+- `docs/scenarios_ja.md`
 
 日本語ファイルは単なるメモではなく公式翻訳です。プロジェクトの原思想のニュアンスを保持しつつ、英語版と整合させます。
 
