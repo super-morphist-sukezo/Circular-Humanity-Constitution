@@ -53,6 +53,7 @@ self_critique_prompt_ja = load_prompt("self_critique_prompt", lang="ja")
 - `examples/physical_simulation_llamaindex.py`: LlamaIndex integration sample
 - `docs/scenarios.md`: canonical English use scenarios
 - `docs/scenarios_ja.md`: official Japanese use scenarios
+- `docs/roadmap.md`: open design tasks and implementation roadmap
 - `compliance_checker.py`: lightweight local compliance checker
 - `docs/translation_policy.md`: language and translation governance policy
 

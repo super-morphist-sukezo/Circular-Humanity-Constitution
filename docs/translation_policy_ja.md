@@ -10,6 +10,7 @@
 - `prompts/self_critique_prompt.md`
 - `prompts/human_dialogue_triggers.md`
 - `docs/scenarios.md`
+- `docs/roadmap.md`
 
 これらは、実装、相互運用、他AIシステムとの連携における主参照です。
 
@@ -21,6 +22,7 @@
 - `prompts/self_critique_prompt_ja.md`
 - `prompts/human_dialogue_triggers_ja.md`
 - `docs/scenarios_ja.md`
+- `docs/roadmap_ja.md`
 
 日本語ファイルは単なるメモではなく公式翻訳です。プロジェクトの原思想のニュアンスを保持しつつ、英語版と整合させます。
 

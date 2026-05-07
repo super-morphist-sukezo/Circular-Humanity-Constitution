@@ -44,6 +44,7 @@ print(self_critique_prompt[:200])
 - `examples/physical_simulation_llamaindex.py`: LlamaIndex 連携サンプル
 - `docs/scenarios.md`: 英語 canonical の活用シナリオ
 - `docs/scenarios_ja.md`: 公式日本語版の活用シナリオ
+- `docs/roadmap.md`: 未解決設計課題と実装ロードマップ
 - `compliance_checker.py`: 簡易遵守度診断ツール
 - `circular_humanity_const/`: ローダー用の最小 Python パッケージ
 - `docs/translation_policy.md`: 翻訳・同期ポリシー
